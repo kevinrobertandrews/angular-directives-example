@@ -1,0 +1,6 @@
+:host {
+  display: block;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+}
